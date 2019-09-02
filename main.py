@@ -8,7 +8,12 @@ def main():
     print("Overview of trash bins in Amsterdam")
 
     for trash_bin in list_trash_bins:
-        print(str(trash_bin['id']) + "\t" + trash_bin['name'] + "\t" + trash_bin['type'] + "\t" + trash_bin['address'])
+        print(
+            str(trash_bin['id']) + "\t" +
+            trash_bin['name'] + "\t" +
+            trash_bin['type'] + "\t" +
+            trash_bin['address']
+        )
 
 
 if __name__ == "__main__":
