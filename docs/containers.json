@@ -1,0 +1,576 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://api.data.amsterdam.nl/afval/v1/containers/?format=json"
+    },
+    "next": {
+      "href": "https://api.data.amsterdam.nl/afval/v1/containers/?format=json&page=2"
+    },
+    "previous": {
+      "href": null
+    }
+  },
+  "count": 13872,
+  "results": [
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.data.amsterdam.nl/afval/v1/containers/3494/?format=json"
+        }
+      },
+      "_display": "Container object (3494)",
+      "id": 3494,
+      "id_number": "REF31790",
+      "owner": {
+        "id": 16,
+        "name": "F Nieuw-West"
+      },
+      "active": 1,
+      "waste_type": 1,
+      "waste_name": "Rest",
+      "container_type": {
+        "id": 27,
+        "name": "Nieuw-West (SV)  Rest 5m3 TR Opl inst",
+        "volume": 5,
+        "weight": 700
+      },
+      "warranty_date": "2011-06-29T00:00:00Z",
+      "operational_date": "2010-06-29T00:00:00Z",
+      "placing_date": "2010-06-29T00:00:00Z",
+      "well": "https://api.data.amsterdam.nl/afval/v1/wells/3493/?format=json",
+      "address": "Uffizilaan 11, Amsterdam"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.data.amsterdam.nl/afval/v1/containers/3560/?format=json"
+        }
+      },
+      "_display": "Container object (3560)",
+      "id": 3560,
+      "id_number": "REF60451",
+      "owner": {
+        "id": 16,
+        "name": "F Nieuw-West"
+      },
+      "active": 1,
+      "waste_type": 1,
+      "waste_name": "Rest",
+      "container_type": {
+        "id": 138,
+        "name": "Nieuw-West papier 5m3",
+        "volume": 5,
+        "weight": 650
+      },
+      "warranty_date": "2011-11-29T00:00:00Z",
+      "operational_date": "2010-11-29T00:00:00Z",
+      "placing_date": "2010-11-29T00:00:00Z",
+      "well": "https://api.data.amsterdam.nl/afval/v1/wells/3559/?format=json",
+      "address": "Guggenheimlaan 59, Amsterdam"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.data.amsterdam.nl/afval/v1/containers/3566/?format=json"
+        }
+      },
+      "_display": "Container object (3566)",
+      "id": 3566,
+      "id_number": "PAF60060",
+      "owner": {
+        "id": 16,
+        "name": "F Nieuw-West"
+      },
+      "active": 1,
+      "waste_type": 6,
+      "waste_name": "Papier",
+      "container_type": {
+        "id": 138,
+        "name": "Nieuw-West papier 5m3",
+        "volume": 5,
+        "weight": 650
+      },
+      "warranty_date": "2011-11-30T00:00:00Z",
+      "operational_date": "2010-02-09T00:00:00Z",
+      "placing_date": "2010-02-09T00:00:00Z",
+      "well": "https://api.data.amsterdam.nl/afval/v1/wells/3565/?format=json",
+      "address": "Mezquitalaan 45, Amsterdam"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.data.amsterdam.nl/afval/v1/containers/3568/?format=json"
+        }
+      },
+      "_display": "Container object (3568)",
+      "id": 3568,
+      "id_number": "REF60058",
+      "owner": {
+        "id": 16,
+        "name": "F Nieuw-West"
+      },
+      "active": 1,
+      "waste_type": 1,
+      "waste_name": "Rest",
+      "container_type": {
+        "id": 27,
+        "name": "Nieuw-West (SV)  Rest 5m3 TR Opl inst",
+        "volume": 5,
+        "weight": 700
+      },
+      "warranty_date": "2011-11-30T00:00:00Z",
+      "operational_date": "2010-02-09T00:00:00Z",
+      "placing_date": "2010-02-09T00:00:00Z",
+      "well": "https://api.data.amsterdam.nl/afval/v1/wells/3567/?format=json",
+      "address": "Mezquitalaan 43, Amsterdam"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.data.amsterdam.nl/afval/v1/containers/3888/?format=json"
+        }
+      },
+      "_display": "Container object (3888)",
+      "id": 3888,
+      "id_number": "REF31196",
+      "owner": {
+        "id": 16,
+        "name": "F Nieuw-West"
+      },
+      "active": 1,
+      "waste_type": 1,
+      "waste_name": "Rest",
+      "container_type": {
+        "id": 27,
+        "name": "Nieuw-West (SV)  Rest 5m3 TR Opl inst",
+        "volume": 5,
+        "weight": 700
+      },
+      "warranty_date": null,
+      "operational_date": "2013-02-22T00:00:00Z",
+      "placing_date": "2013-02-22T00:00:00Z",
+      "well": "https://api.data.amsterdam.nl/afval/v1/wells/3887/?format=json",
+      "address": "Reimerswaalstraat 22, Amsterdam"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.data.amsterdam.nl/afval/v1/containers/3890/?format=json"
+        }
+      },
+      "_display": "Container object (3890)",
+      "id": 3890,
+      "id_number": "PAF32018",
+      "owner": {
+        "id": 16,
+        "name": "F Nieuw-West"
+      },
+      "active": 1,
+      "waste_type": 6,
+      "waste_name": "Papier",
+      "container_type": {
+        "id": 138,
+        "name": "Nieuw-West papier 5m3",
+        "volume": 5,
+        "weight": 650
+      },
+      "warranty_date": null,
+      "operational_date": "2013-06-22T00:00:00Z",
+      "placing_date": "2013-06-22T00:00:00Z",
+      "well": "https://api.data.amsterdam.nl/afval/v1/wells/3889/?format=json",
+      "address": "Reimerswaalstraat 22, Amsterdam"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.data.amsterdam.nl/afval/v1/containers/4022/?format=json"
+        }
+      },
+      "_display": "Container object (4022)",
+      "id": 4022,
+      "id_number": "REF60538",
+      "owner": {
+        "id": 16,
+        "name": "F Nieuw-West"
+      },
+      "active": 1,
+      "waste_type": 1,
+      "waste_name": "Rest",
+      "container_type": {
+        "id": 27,
+        "name": "Nieuw-West (SV)  Rest 5m3 TR Opl inst",
+        "volume": 5,
+        "weight": 700
+      },
+      "warranty_date": "2011-05-12T00:00:00Z",
+      "operational_date": "2010-05-12T00:00:00Z",
+      "placing_date": "2010-05-12T00:00:00Z",
+      "well": "https://api.data.amsterdam.nl/afval/v1/wells/4021/?format=json",
+      "address": "Schaarbeekstraat 34, Amsterdam / Liederkerkeplantsoen"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.data.amsterdam.nl/afval/v1/containers/4046/?format=json"
+        }
+      },
+      "_display": "Container object (4046)",
+      "id": 4046,
+      "id_number": "PAF60317",
+      "owner": {
+        "id": 16,
+        "name": "F Nieuw-West"
+      },
+      "active": 1,
+      "waste_type": 6,
+      "waste_name": "Papier",
+      "container_type": {
+        "id": 27,
+        "name": "Nieuw-West (SV)  Rest 5m3 TR Opl inst",
+        "volume": 5,
+        "weight": 700
+      },
+      "warranty_date": null,
+      "operational_date": "2010-10-14T00:00:00Z",
+      "placing_date": "2010-04-30T00:00:00Z",
+      "well": "https://api.data.amsterdam.nl/afval/v1/wells/4045/?format=json",
+      "address": "Blankenbergestraat 14, Amsterdam"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.data.amsterdam.nl/afval/v1/containers/4048/?format=json"
+        }
+      },
+      "_display": "Container object (4048)",
+      "id": 4048,
+      "id_number": "REF60325",
+      "owner": {
+        "id": 16,
+        "name": "F Nieuw-West"
+      },
+      "active": 1,
+      "waste_type": 1,
+      "waste_name": "Rest",
+      "container_type": {
+        "id": 27,
+        "name": "Nieuw-West (SV)  Rest 5m3 TR Opl inst",
+        "volume": 5,
+        "weight": 700
+      },
+      "warranty_date": null,
+      "operational_date": "2011-10-14T00:00:00Z",
+      "placing_date": "2011-04-30T00:00:00Z",
+      "well": "https://api.data.amsterdam.nl/afval/v1/wells/4047/?format=json",
+      "address": "Antwerpenbaan 8, Amsterdam"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.data.amsterdam.nl/afval/v1/containers/4052/?format=json"
+        }
+      },
+      "_display": "Container object (4052)",
+      "id": 4052,
+      "id_number": "REF31791",
+      "owner": {
+        "id": 16,
+        "name": "F Nieuw-West"
+      },
+      "active": 1,
+      "waste_type": 1,
+      "waste_name": "Rest",
+      "container_type": {
+        "id": 27,
+        "name": "Nieuw-West (SV)  Rest 5m3 TR Opl inst",
+        "volume": 5,
+        "weight": 700
+      },
+      "warranty_date": "2009-02-03T00:00:00Z",
+      "operational_date": "2010-02-03T00:00:00Z",
+      "placing_date": "2010-02-03T00:00:00Z",
+      "well": "https://api.data.amsterdam.nl/afval/v1/wells/4051/?format=json",
+      "address": "Tretjakovlaan 122, Amsterdam"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.data.amsterdam.nl/afval/v1/containers/4086/?format=json"
+        }
+      },
+      "_display": "Container object (4086)",
+      "id": 4086,
+      "id_number": "REF60725",
+      "owner": {
+        "id": 16,
+        "name": "F Nieuw-West"
+      },
+      "active": 1,
+      "waste_type": 1,
+      "waste_name": "Rest",
+      "container_type": {
+        "id": 27,
+        "name": "Nieuw-West (SV)  Rest 5m3 TR Opl inst",
+        "volume": 5,
+        "weight": 700
+      },
+      "warranty_date": null,
+      "operational_date": "2010-10-14T00:00:00Z",
+      "placing_date": "2010-10-14T00:00:00Z",
+      "well": "https://api.data.amsterdam.nl/afval/v1/wells/4085/?format=json",
+      "address": "Oudenaardeplantsoen 13, Amsterdam"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.data.amsterdam.nl/afval/v1/containers/4864/?format=json"
+        }
+      },
+      "_display": "Container object (4864)",
+      "id": 4864,
+      "id_number": "SR31448",
+      "owner": {
+        "id": 16,
+        "name": "F Nieuw-West"
+      },
+      "active": 1,
+      "waste_type": 1,
+      "waste_name": "Rest",
+      "container_type": {
+        "id": 27,
+        "name": "Nieuw-West (SV)  Rest 5m3 TR Opl inst",
+        "volume": 5,
+        "weight": 700
+      },
+      "warranty_date": "2015-07-06T00:00:00Z",
+      "operational_date": "2015-07-06T00:00:00Z",
+      "placing_date": "2007-06-30T00:00:00Z",
+      "well": "https://api.data.amsterdam.nl/afval/v1/wells/27488/?format=json",
+      "address": "Senecastraat 32, Amsterdam"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.data.amsterdam.nl/afval/v1/containers/4948/?format=json"
+        }
+      },
+      "_display": "Container object (4948)",
+      "id": 4948,
+      "id_number": "REF31420",
+      "owner": {
+        "id": 16,
+        "name": "F Nieuw-West"
+      },
+      "active": 1,
+      "waste_type": 1,
+      "waste_name": "Rest",
+      "container_type": {
+        "id": 27,
+        "name": "Nieuw-West (SV)  Rest 5m3 TR Opl inst",
+        "volume": 5,
+        "weight": 700
+      },
+      "warranty_date": "2020-06-25T00:00:00Z",
+      "operational_date": "2011-06-25T00:00:00Z",
+      "placing_date": "2011-06-25T00:00:00Z",
+      "well": "https://api.data.amsterdam.nl/afval/v1/wells/4947/?format=json",
+      "address": "Pieter Calandlaan 169, Amsterdam"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.data.amsterdam.nl/afval/v1/containers/4950/?format=json"
+        }
+      },
+      "_display": "Container object (4950)",
+      "id": 4950,
+      "id_number": "REF31419",
+      "owner": {
+        "id": 16,
+        "name": "F Nieuw-West"
+      },
+      "active": 1,
+      "waste_type": 1,
+      "waste_name": "Rest",
+      "container_type": {
+        "id": 27,
+        "name": "Nieuw-West (SV)  Rest 5m3 TR Opl inst",
+        "volume": 5,
+        "weight": 700
+      },
+      "warranty_date": "2012-06-25T00:00:00Z",
+      "operational_date": "2011-06-25T00:00:00Z",
+      "placing_date": "2011-06-25T00:00:00Z",
+      "well": "https://api.data.amsterdam.nl/afval/v1/wells/4949/?format=json",
+      "address": "Pieter Calandlaan 169, Amsterdam"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.data.amsterdam.nl/afval/v1/containers/4986/?format=json"
+        }
+      },
+      "_display": "Container object (4986)",
+      "id": 4986,
+      "id_number": "REF31049",
+      "owner": {
+        "id": 16,
+        "name": "F Nieuw-West"
+      },
+      "active": 1,
+      "waste_type": 1,
+      "waste_name": "Rest",
+      "container_type": {
+        "id": 27,
+        "name": "Nieuw-West (SV)  Rest 5m3 TR Opl inst",
+        "volume": 5,
+        "weight": 700
+      },
+      "warranty_date": null,
+      "operational_date": "2014-12-30T00:00:00Z",
+      "placing_date": "2014-12-30T00:00:00Z",
+      "well": "https://api.data.amsterdam.nl/afval/v1/wells/74272/?format=json",
+      "address": "Rijswijkstraat 175, Amsterdam"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.data.amsterdam.nl/afval/v1/containers/4990/?format=json"
+        }
+      },
+      "_display": "Container object (4990)",
+      "id": 4990,
+      "id_number": "REF31050",
+      "owner": {
+        "id": 16,
+        "name": "F Nieuw-West"
+      },
+      "active": 1,
+      "waste_type": 1,
+      "waste_name": "Rest",
+      "container_type": {
+        "id": 27,
+        "name": "Nieuw-West (SV)  Rest 5m3 TR Opl inst",
+        "volume": 5,
+        "weight": 700
+      },
+      "warranty_date": null,
+      "operational_date": "2014-12-30T00:00:00Z",
+      "placing_date": "2014-12-30T00:00:00Z",
+      "well": "https://api.data.amsterdam.nl/afval/v1/wells/26677/?format=json",
+      "address": "Rijswijkstraat 175, Amsterdam"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.data.amsterdam.nl/afval/v1/containers/4992/?format=json"
+        }
+      },
+      "_display": "Container object (4992)",
+      "id": 4992,
+      "id_number": "PAF32049",
+      "owner": {
+        "id": 16,
+        "name": "F Nieuw-West"
+      },
+      "active": 1,
+      "waste_type": 6,
+      "waste_name": "Papier",
+      "container_type": {
+        "id": 27,
+        "name": "Nieuw-West (SV)  Rest 5m3 TR Opl inst",
+        "volume": 5,
+        "weight": 700
+      },
+      "warranty_date": null,
+      "operational_date": "2014-12-29T00:00:00Z",
+      "placing_date": "2014-12-29T00:00:00Z",
+      "well": "https://api.data.amsterdam.nl/afval/v1/wells/26676/?format=json",
+      "address": "Rijswijkstraat 175, Amsterdam"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.data.amsterdam.nl/afval/v1/containers/6272/?format=json"
+        }
+      },
+      "_display": "Container object (6272)",
+      "id": 6272,
+      "id_number": "Algemeneorder",
+      "owner": {
+        "id": 16,
+        "name": "F Nieuw-West"
+      },
+      "active": 1,
+      "waste_type": 1,
+      "waste_name": "Rest",
+      "container_type": {
+        "id": 140,
+        "name": "Algemene order",
+        "volume": 0,
+        "weight": 0
+      },
+      "warranty_date": null,
+      "operational_date": "2011-10-10T00:00:00Z",
+      "placing_date": "2011-10-10T00:00:00Z",
+      "well": "https://api.data.amsterdam.nl/afval/v1/wells/6271/?format=json",
+      "address": "Fogostraat 1, 1060 Amsterdam, Nederland"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.data.amsterdam.nl/afval/v1/containers/7080/?format=json"
+        }
+      },
+      "_display": "Container object (7080)",
+      "id": 7080,
+      "id_number": "REF60517",
+      "owner": {
+        "id": 16,
+        "name": "F Nieuw-West"
+      },
+      "active": 1,
+      "waste_type": 1,
+      "waste_name": "Rest",
+      "container_type": {
+        "id": 244,
+        "name": "Nieuw West rest  belfast 5m3 ",
+        "volume": 5,
+        "weight": 700
+      },
+      "warranty_date": "2011-08-31T00:00:00Z",
+      "operational_date": "2010-08-31T00:00:00Z",
+      "placing_date": "2010-08-31T00:00:00Z",
+      "well": "https://api.data.amsterdam.nl/afval/v1/wells/7079/?format=json",
+      "address": "Willebroekstraat 46, Amsterdam / Liedekerkeplantsoen"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://api.data.amsterdam.nl/afval/v1/containers/7324/?format=json"
+        }
+      },
+      "_display": "Container object (7324)",
+      "id": 7324,
+      "id_number": "PAM60067",
+      "owner": {
+        "id": 111,
+        "name": "M Oost"
+      },
+      "active": 1,
+      "waste_type": 6,
+      "waste_name": "Papier",
+      "container_type": {
+        "id": 3322,
+        "name": "5m3 KHC Papier Amsterdam Standaard 1380*1380*2690",
+        "volume": 5,
+        "weight": 630
+      },
+      "warranty_date": "2023-03-18T00:00:00Z",
+      "operational_date": "2016-03-18T00:00:00Z",
+      "placing_date": "2016-03-18T00:00:00Z",
+      "well": "https://api.data.amsterdam.nl/afval/v1/wells/7323/?format=json",
+      "address": "Veeteeltstraat 19, Amsterdam"
+    }
+  ]
+}
