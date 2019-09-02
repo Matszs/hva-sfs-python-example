@@ -1,6 +1,7 @@
 # Software for Science - Python
 
 This repository is used to get started with Python in the Software for Science minor.
+Authors: Mats Otten & ...
 
 ## Installation
 
